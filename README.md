@@ -80,7 +80,7 @@ Dentro de **volumes** habrá que añadir una nueva línea que será para guardar
             - backend-network
         restart: always
 ```
-Ya que sin eso los datos que añadiesemos a la base de datos no se guardarían porque hay tablas. 
+Ya que sin eso los datos que añadiesemos a la base de datos no se guardarían porque no hay tablas. 
 
 ### phpmyadmin 
 
